@@ -73,7 +73,7 @@ These users can be used to authenticate via `/auth/authenticate` and test secure
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/emirlekesiztas/credit-module-api.git
    cd ing-case-study
    ```
 
