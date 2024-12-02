@@ -67,7 +67,6 @@ These users can be used to authenticate via `/auth/authenticate` and test secure
 
 - Java 17 or above.
 - Maven 3.8+.
-- Docker (optional, if using a Dockerized setup).
 
 ### Build and Run
 
@@ -99,7 +98,7 @@ The application uses an in-memory H2 database in `dev` mode. To access the H2 co
 - **URL:** [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
 - **JDBC URL:** `jdbc:h2:mem:testdb`
 - **Username:** `sa`
-- **Password:** *(empty)*
+- **Password:** *password*
 
 ## Unit Tests
 
